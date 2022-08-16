@@ -2,6 +2,8 @@
 
 ## My Knowledge
 
+![Banner](https://i.imgur.com/HUyxrrh.png)
+
 ### Languages
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
