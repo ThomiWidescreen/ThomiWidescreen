@@ -1,10 +1,6 @@
 # Hi 👋, im Thomas.
 
-## Knowledge
-
-### IDE's
-
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white)
+## My Knowledge
 
 ### Languages
 
